@@ -62,7 +62,3 @@ Python, NumPy, Pandas, PyTorch, XGBoost, FastAPI, WebSockets, DVC, pytest, React
 ## Acknowledgments
 
 Dataset from *Silent Impact: Tracking Tennis Shots from the Passive Arm*. Please cite the original paper if you use the data (see the citation in the dataset's repository).
-
-## Author
-
-Built by **Seshadri Veeraraghavan Vidyalakshmi** · [LinkedIn](https://linkedin.com/in/seshadrivv28) · [GitHub](https://github.com/sesha-2k3)
